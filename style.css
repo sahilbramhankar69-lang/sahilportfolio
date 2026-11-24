@@ -29,7 +29,7 @@ section {
     padding: 40px 8%;
 }
 
-/* Navbar */
+
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -48,7 +48,7 @@ section {
     color: yellow;
 }
 
-/* Home */
+
 .hero {
     display: flex;
     justify-content: space-between;
@@ -73,7 +73,7 @@ section {
     background-color: yellow;
 }
 
-/* About */
+
 .about {
     display: flex;
     justify-content: space-between;
@@ -85,7 +85,7 @@ section {
     width: 300px;
 }
 
-/* Skills and Projects */
+
 .skills {
     background-color: lavender;
 }
@@ -109,7 +109,7 @@ section {
     color: white;
 }
 
-/* Contact */
+
 .contact {
     display: flex;
     justify-content: space-between;
@@ -139,7 +139,7 @@ button:hover {
     background-color: darkblue;
 }
 
-/* Footer */
+
 .footer {
     display: flex;
     justify-content: space-between;
@@ -157,7 +157,7 @@ button:hover {
     color: yellow;
 }
 
-/* Mobile */
+
 @media (max-width: 768px) {
     .navbar,
     .hero,
